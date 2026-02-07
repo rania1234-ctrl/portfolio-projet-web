@@ -1,28 +1,57 @@
-# Projet Web – Site de Marché / Produits
+#  Projet Web – Site de présentation de produits
 
-## Description
-Site web réalisé dans le cadre d’un projet universitaire.
-Ce site présente une plateforme simple pour afficher des produits,
-avec recherche et organisation visuelle.
+##  Présentation du projet
+Ce projet est un site web développé dans le cadre d’un projet universitaire.  
+Il vise à présenter une plateforme simple et interactive permettant
+d’afficher des produits, des informations visuelles et des éléments graphiques
+dans une interface claire et moderne.
 
-## Fonctionnalités
-- Page d’accueil avec bannière
-- Présentation des produits
-- Icônes de validation et alertes
-- Barre de recherche
-- Logos partenaires
+Le site met l’accent sur l’ergonomie, l’accessibilité et la facilité de navigation
+pour offrir une bonne expérience utilisateur.
 
-## Captures d’écran
-![Bannière](images/banniere.png)
-![Produits](images/image5.png)
-![Logo](images/logo.png)
-![Recherche](images/loupe de recherche.png)
+---
 
-## Technologies utilisées
-- HTML
-- CSS
-- JavaScript (si utilisé)
+##  Objectifs du projet
+- Concevoir un site web fonctionnel et attractif  
+- Mettre en pratique les notions de HTML, CSS et JavaScript  
+- Améliorer l’expérience utilisateur  
+- Structurer correctement une interface web  
+- Développer un projet respectant les standards du web  
 
-## Remarque
-Le code complet n’est pas inclus.
-Ce dépôt est destiné à la présentation du projet (portfolio).
+---
+
+## Utilisateurs cibles
+Le site s’adresse principalement à :
+
+- Étudiants  
+- Visiteurs  
+- Clients potentiels  
+- Utilisateurs intéressés par les produits présentés  
+
+---
+
+##  Fonctionnalités principales
+- Page d’accueil avec bannière  
+- Affichage des produits  
+- Galerie d’images  
+- Barre de recherche  
+- Icônes de validation et d’alerte  
+- Logos et éléments graphiques  
+- Navigation simple et intuitive  
+
+---
+
+##  Conception et design
+- Interface moderne et épurée  
+- Utilisation d’images et d’icônes personnalisées  
+- Organisation claire des sections  
+- Design responsive (adapté aux écrans)  
+
+---
+
+##  Technologies utilisées
+- HTML  
+- CSS  
+
+---
+
