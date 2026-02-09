@@ -42,39 +42,39 @@ et la facilité de navigation pour offrir une bonne expérience utilisateur.
 
 Le site s’adresse principalement à :
 
-- 🎓 Étudiants  
-- 👀 Visiteurs  
-- 🛒 Clients potentiels  
-- ✨ Utilisateurs intéressés par les produits présentés  
+-  Étudiants  
+-  Visiteurs  
+-  Clients potentiels  
+-  Utilisateurs intéressés par les produits présentés  
 
 ---
 
 ## 🟥 Fonctionnalités principales
 
-- 🏠 Page d’accueil avec bannière  
-- 🧾 Affichage des produits  
-- 🖼️ Galerie d’images  
-- 🔎 Barre de recherche  
-- ✅ Icônes de validation et d’alerte  
-- 🏷️ Logos et éléments graphiques  
-- 🧭 Navigation simple et intuitive  
+-  Page d’accueil avec bannière  
+-  Affichage des produits  
+-  Galerie d’images  
+-  Barre de recherche  
+-  Icônes de validation et d’alerte  
+-  Logos et éléments graphiques  
+-  Navigation simple et intuitive  
 
 ---
 
 ## 🟥 Conception et design
 
-- ✨ Interface moderne et épurée  
-- 🧩 Images et icônes personnalisées  
-- 🧱 Sections bien organisées  
-- 📱 Design responsive (adapté aux écrans)  
+-  Interface moderne et épurée  
+-  Images et icônes personnalisées  
+-  Sections bien organisées  
+-  Design responsive (adapté aux écrans)  
 
 ---
 
 ## 🟥 Technologies utilisées
 
-- 🧡 HTML  
-- 💙 CSS  
-- 💛 JavaScript  
+- HTML  
+- CSS  
+- JavaScript  
 
 ---
 
