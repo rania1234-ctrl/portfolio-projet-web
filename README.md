@@ -1,55 +1,55 @@
 <p align="center">
-  <img src="images/image5.png" width="700" alt="Bazar Morris">
+  <img src="images/logo.png" width="160" alt="Bazar Morris Logo">
 </p>
 
-<h1 align="center" style="color:red;">🛍️ Projet Web – Site de présentation de produits</h1>
+<h1 align="center">🛍️ Projet Web – Site de présentation de produits</h1>
 
 <p align="center">
-  <b>Plateforme universitaire | Interface moderne | UX & navigation</b>
+  Plateforme universitaire | Interface moderne | UX & navigation
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-Orange">
-  <img src="https://img.shields.io/badge/CSS-Blue">
-  <img src="https://img.shields.io/badge/JavaScript-Yellow">
+  <img src="https://img.shields.io/badge/HTML-orange">
+  <img src="https://img.shields.io/badge/CSS-blue">
+  <img src="https://img.shields.io/badge/JavaScript-yellow">
 </p>
 
-<hr/>
+---
 
-<h2 style="color:red;">📌 Présentation du projet</h2>
+## 🟥 Présentation du projet
 
 Ce projet est un site web développé dans le cadre d’un projet universitaire.  
-Il vise à présenter une plateforme simple et interactive permettant d’afficher
-des produits, des informations visuelles et des éléments graphiques
+Il vise à présenter une plateforme simple et interactive permettant
+d’afficher des produits, des informations visuelles et des éléments graphiques
 dans une interface claire et moderne.
 
 Le site met l’accent sur l’ergonomie, l’accessibilité
 et la facilité de navigation pour offrir une bonne expérience utilisateur.
 
-<hr/>
+---
 
-<h2 style="color:red;">🎯 Objectifs</h2>
+## 🟥 Objectifs
 
-- ✅ Concevoir un site web fonctionnel et attractif  
-- ✅ Mettre en pratique HTML, CSS et JavaScript  
-- ✅ Améliorer l’expérience utilisateur  
-- ✅ Structurer correctement une interface web  
-- ✅ Respecter les standards du web  
+-  Concevoir un site web fonctionnel et attractif  
+-  Mettre en pratique HTML, CSS et JavaScript  
+-  Améliorer l’expérience utilisateur  
+-  Structurer correctement une interface web  
+-  Respecter les standards du web  
 
-<hr/>
+---
 
-<h2 style="color:red;">👥 Utilisateurs cibles</h2>
+## 🟥 Utilisateurs cibles
 
 Le site s’adresse principalement à :
 
 - 🎓 Étudiants  
 - 👀 Visiteurs  
 - 🛒 Clients potentiels  
-- ✨ Utilisateurs intéressés  
+- ✨ Utilisateurs intéressés par les produits présentés  
 
-<hr/>
+---
 
-<h2 style="color:red;">⚙️ Fonctionnalités principales</h2>
+## 🟥 Fonctionnalités principales
 
 - 🏠 Page d’accueil avec bannière  
 - 🧾 Affichage des produits  
@@ -57,28 +57,28 @@ Le site s’adresse principalement à :
 - 🔎 Barre de recherche  
 - ✅ Icônes de validation et d’alerte  
 - 🏷️ Logos et éléments graphiques  
-- 🧭 Navigation intuitive  
+- 🧭 Navigation simple et intuitive  
 
-<hr/>
+---
 
-<h2 style="color:red;">🎨 Conception et design</h2>
+## 🟥 Conception et design
 
 - ✨ Interface moderne et épurée  
 - 🧩 Images et icônes personnalisées  
 - 🧱 Sections bien organisées  
-- 📱 Design responsive  
+- 📱 Design responsive (adapté aux écrans)  
 
-<hr/>
+---
 
-<h2 style="color:red;">💻 Technologies utilisées</h2>
+## 🟥 Technologies utilisées
 
 - 🧡 HTML  
 - 💙 CSS  
 - 💛 JavaScript  
 
-<hr/>
+---
 
-<h2 style="color:red;">📸 Aperçu du site</h2>
+## 🟥 Aperçu du site
 
 <p align="center">
   <img src="images/image2.png" width="220">
@@ -86,9 +86,14 @@ Le site s’adresse principalement à :
   <img src="images/image4.png" width="220">
 </p>
 
-<hr/>
+---
 
-<p align="center">
-  <i>📁 Ce projet est présenté dans le cadre d’un portfolio universitaire.</i>
-</p>
+## 🟥 Exécution du projet
 
+Ouvrir le fichier `index.html` dans un navigateur web
+pour lancer le site.
+
+---
+
+
+et en conception d’interfaces.
