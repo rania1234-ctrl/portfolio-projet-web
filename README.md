@@ -81,9 +81,7 @@ Le site s’adresse principalement à :
 ## 🟥 Aperçu du site
 
 <p align="center">
-  <img src="images/image2.png" width="220">
-  <img src="images/image3.png" width="220">
-  <img src="images/image4.png" width="220">
+  <img src="images/site.png" width="220">
 </p>
 
 ---
